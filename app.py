@@ -23,7 +23,7 @@ INDEX_MAP = {
     'KOSPI (Korea)': '^KS11',
     'ASX 200 (Australia)': '^AXJO',
     'EURO STOXX 50 (Europe)': '^STOXX50E',
-    'APPLE (APPL)': 'APPL',
+    'APPLE (APPL)': 'AAPL',
     'NVIDA (NVDA)': 'NVDA',
     'GOOGLE (GOOGL)': 'GOOGL',
     'AMAZON (AMZN)': 'AMZN',
