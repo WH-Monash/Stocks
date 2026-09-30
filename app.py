@@ -8,8 +8,8 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # Configure Page
-st.set_page_config(page_title="Global Stock Indices 9-Turn System", layout="wide")
-st.title("Global Stock Indices Quantitative Structure & 9-Turn System")
+st.set_page_config(page_title="Global Stocks", layout="wide")
+st.title("Global StocKS")
 
 # Dictionaries for dropdowns
 INDEX_MAP = {
@@ -22,7 +22,14 @@ INDEX_MAP = {
     'Nikkei 225 (Japan)': '^N225',
     'KOSPI (Korea)': '^KS11',
     'ASX 200 (Australia)': '^AXJO',
-    'EURO STOXX 50 (Europe)': '^STOXX50E'
+    'EURO STOXX 50 (Europe)': '^STOXX50E',
+    'APPLE (APPL)': 'APPL',
+    'NVIDA (NVDA)': 'NVDA',
+    'GOOGLE (GOOGL)': 'GOOGL',
+    'AMAZON (AMZN)': 'AMZN',
+    'META (META)': 'META',
+    'MICROSOFT (MSFT)': 'MSFT',
+    'TESLA (TSLA)', 'TSLA'
 }
 
 PERIOD_MAP = {
