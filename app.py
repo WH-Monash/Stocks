@@ -29,7 +29,7 @@ INDEX_MAP = {
     'AMAZON (AMZN)': 'AMZN',
     'META (META)': 'META',
     'MICROSOFT (MSFT)': 'MSFT',
-    'TESLA (TSLA)', 'TSLA'
+    'TESLA (TSLA)': 'TSLA'
 }
 
 PERIOD_MAP = {
