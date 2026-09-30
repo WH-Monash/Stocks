@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 
 # Configure Page
 st.set_page_config(page_title="Global Stocks", layout="wide")
-st.title("Global StocKS")
+st.title("Global Stocks")
 
 # Dictionaries for dropdowns
 INDEX_MAP = {
